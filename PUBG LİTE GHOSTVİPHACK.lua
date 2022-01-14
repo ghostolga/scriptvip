@@ -4,7 +4,7 @@ function setvalue(address,flags,value) local tt={} tt[1]={} tt[1].address=addres
 on = " :❌*ᵏᵃᵖᵃᵗ"
 off = ":✅*ᵃᶜ̧"
 
-Date = '20220114'
+Date = '20220117'
 date = os.date('%Y%m%d')
 if date >= Date then
 gg.alert("VİP süreniz dolmuştur.","Tamam")
@@ -45,9 +45,7 @@ gg.sleep(100)
 gg.toast("Başarılı…100%\n🔥🔥🔥🔥🔥🔥🍇")
 gg.sleep(100)
 
-gg.alert("‼️Sevgili kullanıcılar, - 1.0 Sürümünde yaşanan flash speed & crash sorunları güncelleme ile 1 gün içinde düzeltilecektir.‼️ \n\n⚠️ Geçici olarak flash menüsü devre dışı bırakılmıştır! \n\n✓ Keyifli oyunlar, tüm kullanıcılara güncelleme sonrası 48 saat ekleyeceğiz.")
-
-gg.alert("SCRİPT İNFO :- V1.0 32BİT LİTE FULL ANTİBAN SAFE ✅")
+gg.alert("SCRİPT İNFO :- GHOST VİP V1.1 32BİT LİTE NEW ANTİ/BAN \n\nPUBG MOBILE LITE 32BİT STATUS : [ SAFE ]  ✅")
 
 pars = off
 
@@ -60,7 +58,7 @@ GHT = gg.choice({
 "╭═══════════════╮\n |          sɪ̇ʟᴀʜ ᴍᴇɴᴜ̈ 🔫        |\n╰═══════════════╯",
 "╭═══════════════╮\n |          ᴏʏᴜɴ ᴍᴇɴᴜ̈ 🎮         |\n╰═══════════════╯",
 "╭═══════════════╮\n |          sᴋɪ̇ɴ ᴍᴇɴᴜ̈  ⭐         |\n╰═══════════════╯",
-"╭═══════════════╮\n |          ғʟᴀsʜ ᴍᴇɴᴜ̈*ⁿᵘˡˡ🏇  |\n╰═══════════════╯",
+"╭═══════════════╮\n |          ғʟᴀsʜ ᴍᴇɴᴜ̈*ʸᵉⁿⁱ🏇  |\n╰═══════════════╯",
 "╭═══════════════╮\n |          ᴘᴀʀᴀşᴜ̈ᴛ sᴇx ⏬      |\n╰═══════════════╯"..pars,
 "╭═══════════════╮\n |          ᴀʀᴀʙᴀ ᴜᴄ̧ᴜʀ 🚘       |\n╰═══════════════╯",
 "╭═══════════════╮\n |          ᴄɪᴋɪş ʏᴀᴘ 🚪            |\n╰═══════════════╯"
@@ -101,8 +99,8 @@ end
 function bypas()
 gg.alert("💎 OKUYUN 💎 \n🛡️Antiban V1'i açın.\n🛡️Cihazınızla çalışmıyorsa V2'yi açabilirsiniz.")
 antiban1 = gg.choice({
-"⭐ ʟɪ̇ᴛᴇ ʙʏᴘᴀss & ᴀɴᴛɪʙᴀɴ v1*ʸᵉⁿⁱ\n ╰➣ʟᴏʙʙʏ",
-"♥️ ʟɪ̇ᴛᴇ ʙʏᴘᴀss & ᴀɴᴛɪʙᴀɴ v2*ʸᵉⁿⁱ\n ╰➣ʟᴏʙʙʏ",
+"🍇 ʟɪ̇ᴛᴇ ʙʏᴘᴀss & ᴀɴᴛɪʙᴀɴ v1*ʸᵉⁿⁱ\n ╰➣ʟᴏʙʙʏ",
+"🌶️ ʟɪ̇ᴛᴇ ʙʏᴘᴀss & ᴀɴᴛɪʙᴀɴ v2*ʸᵉⁿⁱ\n ╰➣ʟᴏʙʙʏ",
 "🚯 ᴘʀᴇᴍɪᴜᴍ ʟᴏɢ & ʀᴇᴘᴏʀᴛ ʙʟᴏᴄᴋ\n ╰➣ᴀᴅᴀᴅᴀ",
 "⬅️ɢᴇʀɪ̇ ɢɪ̇ᴛ"
 }, nil, ("༻   ҉ 🔥ＧＨＯＳＴ ＡＮＴＩＢＡＮ 🔥   ҉ ༺\n✩｡:*•.───────★───────.•*:｡✩\nMaker: @ghostofficiall ⚕️"))
@@ -129,130 +127,158 @@ gg.alert("Antiban açılıyor...\n@ghostofficiall 🇹🇷💎")
 os.remove("src/main/java/com/google/errorprone/annotations")
 os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
 os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
+os.remove("data/data/com.tencent.iglite/cache/volley")
+os.remove("data/data/com.tencent.iglite/shared_prefs/WebViewChromiumPrefs.xml")
+os.remove("src/main/java/com/google/errorprone/annotations")
+os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
+os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
+os.remove("data/data/com.tencent.iglite/cache/volley")
+os.remove("data/data/com.tencent.iglite/shared_prefs/WebViewChromiumPrefs.xml")
+os.remove("data/data/com.tencent.iglite/cache/volley")
+os.remove("data/data/com.tencent.iglite/shared_prefs/WebViewChromiumPrefs.xml")
+os.remove("data/data/com.tencent.iglite/cache/volley")
+os.remove("data/data/com.tencent.iglite/shared_prefs/WebViewChromiumPrefs.xml")
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("620137442967552")
-gg.refineNumber("620137442967552")
-gg.getResults(500)
-gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.searchNumber("620137442967552;564058054983680", gg.TYPE_QWORD)
+gg.refineNumber("620137442967552", gg.TYPE_QWORD)
+revert = gg.getResults(99999) local t = gg.getResults(50000)
+for i, v in ipairs(t) do if v.flags == gg.TYPE_QWORD then
+v.value = "361418272522109953" v.freeze = true end end
+gg.addListItems(t) t = nil
+gg.clearList()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("620137442967552")
-gg.refineNumber("620137442967552")
-gg.getResults(5010)
-gg.editAll("288233678981562368", gg.TYPE_QWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133634;134658")
-gg.refineNumber("133634")
-gg.getResults(62877)
-gg.editAll("133,890", gg.TYPE_DWORD)
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("909391408")
-gg.getResults(62877)
-gg.editAll("1089886885", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("909391408")
-gg.getResults(999)
-gg.editAll("1089886885", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("196864;16842753")
-gg.refineNumber("196864")
+gg.searchNumber("281474976710656;282574488338432", gg.TYPE_QWORD)
+gg.refineNumber("281474976710656", gg.TYPE_QWORD)
 gg.getResults(50000)
-gg.editAll("19,530,497", gg.TYPE_DWORD)
+gg.editAll("288516253469900800", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("583849264283648;582749752655872", gg.TYPE_QWORD)
+gg.refineNumber("583849264283648", gg.TYPE_QWORD)
+gg.getResults(99999, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("572854148005888;564058054983680", gg.TYPE_QWORD)
+gg.refineNumber("572854148005888", gg.TYPE_QWORD)
+gg.getResults(99999, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("84017924", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("84017924", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+	if v.flags == gg.TYPE_DWORD then
+		v.value = "84,149,249"
+		v.freeze = true
+	end
+end
+gg.addListItems(t)
+t = nil
+gg.clearList()
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("67240961", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("67240961", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+	if v.flags == gg.TYPE_DWORD then
+		v.value = "84,149,249"
+		v.freeze = true
+	end
+end
+gg.addListItems(t)
+t = nil
+gg.clearList()
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("67240195", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("67240195", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+	if v.flags == gg.TYPE_DWORD then
+		v.value = "84,149,249"
+		v.freeze = true
+	end
+end
+gg.addListItems(t)
+t = nil
+gg.clearList()
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("67240962", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("67240962", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+	if v.flags == gg.TYPE_DWORD then
+		v.value = "84,149,249"
+		v.freeze = true
+	end
+end
+gg.addListItems(t)
+t = nil
+gg.clearResults()
+gg.clearList()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("134,402;134,914", gg.TYPE_DWORD)
+gg.refineNumber("134,402", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("84,149,249", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("133,378;133,634", gg.TYPE_DWORD)
+gg.refineNumber("133,378", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
 gg.searchNumber("131330;134658")
 gg.refineNumber("134658")
 gg.getResults(50000)
-gg.editAll("19,530,497", gg.TYPE_DWORD)
+gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
 gg.searchNumber("135682;144387")
 gg.refineNumber("135682")
 gg.getResults(50000)
-gg.editAll("19,530,497", gg.TYPE_DWORD)
+gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
 gg.searchNumber("134402;67109377")
 gg.refineNumber("134402")
 gg.getResults(50000)
-gg.editAll("19,530,497", gg.TYPE_DWORD)
+gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
 gg.searchNumber("134658;134658")
 gg.refineNumber("134658")
 gg.getResults(50000)
-gg.editAll("19,530,497", gg.TYPE_DWORD)
+gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
 gg.searchNumber("131842;133635")
 gg.refineNumber("131842")
 gg.getResults(50000)
-gg.editAll("19,530,497", gg.TYPE_DWORD)
+gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133634;135682")
-gg.refineNumber("133634")
-gg.getResults(50000)
-gg.editAll("19,530,497", gg.TYPE_DWORD)
+gg.searchNumber("133634;133890", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("133634", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+revert = gg.getResults(62877, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("67895296", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133378;144387")
-gg.refineNumber("133378")
-gg.getResults(50000)
-gg.editAll("19,530,497", gg.TYPE_DWORD)
+gg.searchNumber("133634;133890", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("133634", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+revert = gg.getResults(62877, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("67895296", gg.TYPE_DWORD)
 gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("262403")
-gg.refineNumber("262403")
-gg.getResults(50000)
-gg.editAll("19,530,497", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("144387")
-gg.refineNumber("144387")
-gg.getResults(50000)
-gg.editAll("19,530,497", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_CODE_APP)
-gg.searchNumber(";CheatDetected")
-gg.getResults(50000)
-gg.editAll(";", gg.TYPE_WORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
-gg.searchNumber("196864;16842753", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("196864", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-revert = gg.getResults(10000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("67109633", gg.TYPE_DWORD)
-gg.clearResults()
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
-gg.searchNumber("144387;131330", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("144387", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-revert = gg.getResults(10000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("67109633", gg.TYPE_DWORD)
-gg.clearResults()
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
-gg.searchNumber("134658;131330", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("134658", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-revert = gg.getResults(10000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("67109633", gg.TYPE_DWORD)
-gg.clearResults()
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
-gg.searchNumber("133378;144387", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("133378", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-revert = gg.getResults(10000, nil, nil, nil, nil, nil, nil, nil, nil)
-gg.editAll("67109633", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_CODE_APP)
-gg.searchNumber(";CheatDetected")
-gg.getResults(50000)
-gg.editAll(";", gg.TYPE_WORD)
-gg.clearResults()
+gg.alert("Deyyuz yaramı ye 😁🥒")
 gg.alert("Sn @ghostofficiall, tarafından Lite Anti-cheat Katledildi! 🇹🇷 \n❎ Offline Yok / ❎ 10DK Yok! / ❎ 10Yıl Yok!","İleri⏭️✅")
 end
 
@@ -261,108 +287,158 @@ gg.alert("Antiban açılıyor...\n@ghostofficiall 🇹🇷💎")
 os.remove("src/main/java/com/google/errorprone/annotations")
 os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
 os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
+os.remove("data/data/com.tencent.iglite/cache/volley")
+os.remove("data/data/com.tencent.iglite/shared_prefs/WebViewChromiumPrefs.xml")
+os.remove("src/main/java/com/google/errorprone/annotations")
+os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
+os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
+os.remove("data/data/com.tencent.iglite/cache/volley")
+os.remove("data/data/com.tencent.iglite/shared_prefs/WebViewChromiumPrefs.xml")
+os.remove("data/data/com.tencent.iglite/cache/volley")
+os.remove("data/data/com.tencent.iglite/shared_prefs/WebViewChromiumPrefs.xml")
+os.remove("data/data/com.tencent.iglite/cache/volley")
+os.remove("data/data/com.tencent.iglite/shared_prefs/WebViewChromiumPrefs.xml")
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.clearResults()
+gg.searchNumber("620137442967552;564058054983680", gg.TYPE_QWORD)
+gg.refineNumber("620137442967552", gg.TYPE_QWORD)
+revert = gg.getResults(99999) local t = gg.getResults(50000)
+for i, v in ipairs(t) do if v.flags == gg.TYPE_QWORD then
+v.value = "361418272522109953" v.freeze = true end end
+gg.addListItems(t) t = nil
+gg.clearList()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("134,914;144,387")
-gg.refineNumber("134,914")
-gg.getResults(62877)
-gg.editAll("133,890", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133,634;133,890")
-gg.refineNumber("133,634")
-gg.getResults(62877)
-gg.editAll("133,890", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133,634;134,658")
-gg.refineNumber("133,634")
-gg.getResults(62877)
-gg.editAll("133890", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("909391408")
-gg.getResults(62877)
-gg.editAll("1089886885", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("909391408")
-gg.getResults(999)
-gg.editAll("1089886885", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("67,633,927;67,109,377")
-gg.refineNumber("67,633,927;67,109,377")
+gg.searchNumber("281474976710656;282574488338432", gg.TYPE_QWORD)
+gg.refineNumber("281474976710656", gg.TYPE_QWORD)
 gg.getResults(50000)
-gg.editAll("67633927", gg.TYPE_DWORD)
+gg.editAll("288516253469900800", gg.TYPE_QWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("67,109,390;67,114,093")
-gg.refineNumber("67,109,390;67,114,093")
-gg.getResults(50000)
-gg.editAll("67633927", gg.TYPE_DWORD)
+gg.searchNumber("583849264283648;582749752655872", gg.TYPE_QWORD)
+gg.refineNumber("583849264283648", gg.TYPE_QWORD)
+gg.getResults(99999, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("196,864;16,842,753::5")
-gg.refineNumber("196,864")
+gg.searchNumber("572854148005888;564058054983680", gg.TYPE_QWORD)
+gg.refineNumber("572854148005888", gg.TYPE_QWORD)
+gg.getResults(99999, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("84017924", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("84017924", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+	if v.flags == gg.TYPE_DWORD then
+		v.value = "84,149,249"
+		v.freeze = true
+	end
+end
+gg.addListItems(t)
+t = nil
+gg.clearList()
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("67240961", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("67240961", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+	if v.flags == gg.TYPE_DWORD then
+		v.value = "84,149,249"
+		v.freeze = true
+	end
+end
+gg.addListItems(t)
+t = nil
+gg.clearList()
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("67240195", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("67240195", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+	if v.flags == gg.TYPE_DWORD then
+		v.value = "84,149,249"
+		v.freeze = true
+	end
+end
+gg.addListItems(t)
+t = nil
+gg.clearList()
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("67240962", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("67240962", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(26000, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+	if v.flags == gg.TYPE_DWORD then
+		v.value = "84,149,249"
+		v.freeze = true
+	end
+end
+gg.addListItems(t)
+t = nil
+gg.clearResults()
+gg.clearList()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("134,402;134,914", gg.TYPE_DWORD)
+gg.refineNumber("134,402", gg.TYPE_DWORD)
 gg.getResults(50000)
 gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("67,109,377;16,384")
-gg.refineNumber("16384")
+gg.searchNumber("133,378;133,634", gg.TYPE_DWORD)
+gg.refineNumber("133,378", gg.TYPE_DWORD)
 gg.getResults(50000)
 gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("131,330;134,658")
-gg.refineNumber("134,658")
+gg.searchNumber("131330;134658")
+gg.refineNumber("134658")
 gg.getResults(50000)
 gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("135,682;144,387")
-gg.refineNumber("135,682")
+gg.searchNumber("135682;144387")
+gg.refineNumber("135682")
 gg.getResults(50000)
 gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("4,096;135,682")
-gg.refineNumber("4,096")
+gg.searchNumber("134402;67109377")
+gg.refineNumber("134402")
 gg.getResults(50000)
 gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("134,402;67,109,377")
-gg.refineNumber("134,402")
+gg.searchNumber("134658;134658")
+gg.refineNumber("134658")
 gg.getResults(50000)
 gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("134,658;134,658")
-gg.refineNumber("134,658")
+gg.searchNumber("131842;133635")
+gg.refineNumber("131842")
 gg.getResults(50000)
 gg.editAll("84,149,249", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("131,842;133,635")
-gg.refineNumber("131,842")
-gg.getResults(50000)
-gg.editAll("84,149,249", gg.TYPE_DWORD)
+gg.searchNumber("133634;133890", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("133634", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+revert = gg.getResults(62877, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("67895296", gg.TYPE_DWORD)
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133,634;135,682")
-gg.refineNumber("133,634")
-gg.getResults(50000)
-gg.editAll("84,149,249", gg.TYPE_DWORD)
+gg.searchNumber("133634;133890", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("133634", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+revert = gg.getResults(62877, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("67895296", gg.TYPE_DWORD)
 gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133,378;144,387")
-gg.refineNumber("133,378")
-gg.getResults(50000)
-gg.editAll("84,149,249", gg.TYPE_DWORD)
-gg.clearResults()
+gg.alert("Deyyuz yaramı ye 😁🥒")
 gg.alert("Sn @ghostofficiall, tarafından Lite Anti-cheat Katledildi! 🇹🇷 \n❎ Offline Yok / ❎ 10DK Yok! / ❎ 10Yıl Yok!","İleri⏭️✅")
 end
 
@@ -450,47 +526,7 @@ gg.toast("Temizlik başarı, ile tamamlandı. ✅")
 end
 
 function fixer()
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("524304", gg.TYPE_DWORD)
-gg.getResults(500)
-gg.editAll("0", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("29793", gg.TYPE_DWORD)
-gg.getResults(500)
-gg.editAll("0", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("41097", gg.TYPE_DWORD)
-gg.getResults(500)
-gg.editAll("0", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("34842", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("0", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("459861", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("0", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("925013", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("0", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("19970", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("0", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("786544", gg.TYPE_DWORD)
-gg.getResults(50000)
-gg.editAll("0", gg.TYPE_DWORD)
-gg.clearResults()
+
 gg.alert("🔰 İstemci yasağı ortadan kaldırıldı. Lobby'de açtığınızdan emin olun.\n\n📝 Her maç sonunda lobby'de tekrar tekrar aktif ediniz.","Tamam✔️")
 end
 
@@ -504,7 +540,7 @@ SLH = gg.multiChoice({
 "⟅🚹⟆ İleri Uzanan Kol\n╰➣ᴏʏᴜɴ" .. sta,
 "⟅⭕⟆ ESP Çemberi Lite! \n╰➣ᴏʏᴜɴ",
 "⟅🤕⟆ Yüksek hasar %100 \n╰➣ᴏʏᴜɴ",
-"⟅❌⟆ X Hasar Efekti X ##\n╰➣ᴏʏᴜɴ",
+"⟅❌⟆ Kırmız X Hasar Efekti *ʸᵉⁿⁱ\n╰➣ᴏʏᴜɴ",
 "⟅🔙⟆ ɢᴇʀɪ̇ ɢɪ̇ᴛ"
 }, nil, ("Ｇｈｏｓｔ  ｏｆｆｉｃｉａｌｌ\n✩｡:*•.─────  ★  ─────.•*:｡✩"))
 if SLH == nil then
@@ -901,8 +937,179 @@ function skin()
 gg.alert("Cilt fonksiyonları, lite için uyumlu hale getirilecek...")
 end
 
+pronesp = off
+flashv1 = off
+
 function flash()
-gg.alert("Bakım devam ediyor...")
+FLH = gg.multiChoice({
+"FLASH SPEED V1"..flashv1,
+"FLASH SPEED V2",
+"TAKILMA DÜZELTİCİ",
+"SPEED PRONE"..pronesp,
+"GERİ"
+},nil,"")
+if FLH == nil then
+else
+if FLH [1] == true then
+flashsp1()
+end
+if FLH [2] == true then
+flashsp2()
+end
+if FLH [3] == true then
+fixstck()
+end
+if FLH [4] == true then
+prone()
+end
+if FLH [5] == true then
+home()
+end
+end
+SS=-1
+end
+
+function flashsp1()
+if flashv1 == off then
+function setvalue(address,flags,value) local tt={} tt[1]={} tt[1].address=address tt[1].flags=flags tt[1].value=value gg.setValues(tt) end 
+gg.clearResults()
+gg.setVisible(false)
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("4,525,216,907,414,147,695", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResults(1401)
+gg.editAll("4,525,216,907,473,673,257", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("-1,328,550,408,728,725,571", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResults(1401)
+gg.editAll("-1,328,550,408,576,460,390", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("-1296744149883614555", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResults(1401)
+gg.editAll("-1296744149264269342", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("-1296744149883614555", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResults(1401)
+gg.editAll("-18289292828288282888/280", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setVisible(false)
+gg.searchNumber("-1505254313802431360", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResults(1401)
+gg.editAll("-1505254313804899999", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("-2188679037581846016", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResultsCount()
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("-1585267064848315881", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResults(100)
+gg.editAll("-1585267068834414550", gg.TYPE_QWORD)
+gg.clearResults()
+gg.clearResults()
+gg.setVisible(false)
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("1400;0.10000000149;1000;88;60;30", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber("60", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(100)
+gg.editAll("-74", gg.TYPE_FLOAT)
+gg.clearResults()
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x140D86C
+setvalue(so+py,16,-1.25420031e28)
+so=gg.getRangesList("libUE4.so")[1].start
+py=0x3E0F7D8
+setvalue(so+py,16,0)
+gg.toast("Flash speed , aktif edildi...!")
+flashv1 = on
+else
+function setvalue(address,flags,value) local tt={} tt[1]={} tt[1].address=address tt[1].flags=flags tt[1].value=value gg.setValues(tt) end 
+gg.clearResults()
+gg.setVisible(false)
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("4,525,216,907,473,673,257", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResults(1401)
+gg.editAll("4,525,216,907,414,147,695", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("-1,328,550,408,576,460,390", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResults(1401)
+gg.editAll("-1,328,550,408,728,725,571", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("-1296744149264269342", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResults(1401)
+gg.editAll("-1296744149883614555", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("-18289292828288282888/280", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResults(1401)
+gg.editAll("-1296744149883614555", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setVisible(false)
+gg.searchNumber("-1505254313804899999", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResults(1401)
+gg.editAll("-1505254313802431360", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("-2188679037581846016", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResultsCount()
+gg.clearResults()
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("-1585267068834414550", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)  
+gg.getResults(100)
+gg.editAll("-1585267064848315881", gg.TYPE_QWORD)
+gg.clearResults()
+so=gg.getRangesList('libUE4.so')[1].start
+py=0x140D86C
+setvalue(so+py,16,-1.25420021e28)
+so=gg.getRangesList("libUE4.so")[1].start
+py=0x3E0F7D8
+setvalue(so+py,16,-1.86389771e-20)
+flashv1 = off
+end
+end
+
+function fixstck()
+function split(szFullString, szSeparator) local nFindStartIndex = 1 local nSplitIndex = 1 local nSplitArray = {} while true do local nFindLastIndex = string.find (szFullString, szSeparator, nFindStartIndex) if not nFindLastIndex then nSplitArray[nSplitIndex] = string.sub(szFullString, nFindStartIndex, string.len (szFullString)) break end nSplitArray[nSplitIndex] = string.sub (szFullString, nFindStartIndex, nFindLastIndex - 1) nFindStartIndex = nFindLastIndex + string.len (szSeparator) nSplitIndex = nSplitIndex + 1 end return nSplitArray end function xgxc(szpy, qmxg) for x = 1, #(qmxg) do xgpy = szpy + qmxg[x]["offset"] xglx = qmxg[x]["type"] xgsz = qmxg[x]["value"] xgdj = qmxg[x]["freeze"] if xgdj == nil or xgdj == "" then gg.setValues({[1] = {address = xgpy, flags = xglx, value = xgsz}}) else gg.addListItems({[1] = {address = xgpy, flags = xglx, freeze = xgdj, value = xgsz}}) end xgsl = xgsl + 1 xgjg = true end end function xqmnb(qmnb) gg.clearResults() gg.setRanges(qmnb[1]["memory"]) gg.searchNumber(qmnb[3]["value"], qmnb[3]["type"]) if gg.getResultCount() == 0 then gg.toast(qmnb[2]["name"] .. "") else gg.refineNumber(qmnb[3]["value"], qmnb[3]["type"]) gg.refineNumber(qmnb[3]["value"], qmnb[3]["type"]) gg.refineNumber(qmnb[3]["value"], qmnb[3]["type"]) if gg.getResultCount() == 0 then gg.toast(qmnb[2]["name"] .. "") else sl = gg.getResults(999999) sz = gg.getResultCount() xgsl = 0 if sz > 999999 then sz = 999999 end for i = 1, sz do pdsz = true for v = 4, #(qmnb) do if pdsz == true then pysz = {} pysz[1] = {} pysz[1].address = sl[i].address + qmnb[v]["offset"] pysz[1].flags = qmnb[v]["type"] szpy = gg.getValues(pysz) pdpd = qmnb[v]["lv"] .. ";" .. szpy[1].value szpd = split(pdpd, ";") tzszpd = szpd[1] pyszpd = szpd[2] if tzszpd == pyszpd then pdjg = true pdsz = true else pdjg = false pdsz = false end end end if pdjg == true then szpy = sl[i].address xgxc(szpy, qmxg) end end if xgjg == true then gg.toast(qmnb[2]["name"] .. "" .. xgsl .. "") else gg.toast(qmnb[2]["name"] .. "") end end end end function SearchWrite(Search, Write, Type) gg.clearResults() gg.setVisible(false) gg.searchNumber(Search[1][1], Type) local count = gg.getResultCount() local result = gg.getResults(count) gg.clearResults() local data = {} local base = Search[1][2] if (count > 0) then for i, v in ipairs(result) do v.isUseful = true end for k=2, #Search do local tmp = {} local offset = Search[k][2] - base local num = Search[k][1] for i, v in ipairs(result) do tmp[#tmp+1] = {} tmp[#tmp].address = v.address + offset tmp[#tmp].flags = v.flags end tmp = gg.getValues(tmp) for i, v in ipairs(tmp) do if ( tostring(v.value) ~= tostring(num) ) then result[i].isUseful = false end end end for i, v in ipairs(result) do if (v.isUseful) then data[#data+1] = v.address end end if (#data > 0) then local t = {} local base = Search[1][2] for i=1, #data do for k, w in ipairs(Write) do offset = w[2] - base t[#t+1] = {} t[#t].address = data[i] + offset t[#t].flags = Type t[#t].value = w[1] if (w[3] == true) then local item = {} item[#item+1] = t[#t] item[#item].freeze = true gg.addListItems(item) end end end gg.setValues(t) gg.toast(""..#t.."") gg.addListItems(t) else gg.toast("", false) return false end else gg.toast("Not Found") return false end end
+
+qmnb = {{["memory"] = 16384},
+{["name"] = ""},
+{["value"] = -1296744149883614555, ["type"] = 32},
+{["lv"] = -1245656510323684848, ["offset"] = 4, ["type"] = 32},
+
+}
+
+qmxg = {{["value"] = 0, ["offset"] = 0, ["type"] = 16},
+{["value"] = 0, ["offset"] = 4, ["type"] = 16},
+{["value"] = 0, ["offset"] = 12, ["type"] = 16},
+{["value"] = 0, ["offset"] = 20, ["type"] = 16},
+{["value"] = 0, ["offset"] = 24, ["type"] = 16},
+{["value"] = 0, ["offset"] = 28, ["type"] = 16},
+{["value"] = 0, ["offset"] = 32, ["type"] = 16},
+{["value"] = 0, ["offset"] = 44, ["type"] = 16},
+{["value"] = 0, ["offset"] = 54, ["type"] = 16},
+
+}
+
+xqmnb(qmnb)
+end
+
+function prone()
+if pronesp == off then
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("-3.74440972e28;-9.00721536e15;-2.73959284e28;-2.78601489e28;-3.74440972e28:17", gg.TYPE_FLOAT)
+gg.searchNumber("-2.73959284e28", gg.TYPE_FLOAT)
+GHOSTVIP70021 = gg.getResults(1401)
+gg.editAll("-2.73959308e28", gg.TYPE_FLOAT)
+pronesp = on
+gg.toast("Speed prone, aktif edildi...!")
+else
+gg.setValues(GHOSTVIP70021)
+pronesp = off
+end
 end
 
 function fast()
